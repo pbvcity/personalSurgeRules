@@ -2,6 +2,3 @@ PROCESS-NAME,/Applications/Thunder.app/Contents/MacOS/Thunder,DIRECT
 PROCESS-NAME,/Applications/虾米音乐.app/Contents/MacOS/虾米音乐,DIRECT
 PROCESS-NAME,/Applications/Maxon Cinema 4D R21/Cinema 4D.app/Contents/MacOS/Cinema 4D,REJECT
 PROCESS-NAME,/Applications/Folx.app/Contents/MacOS/Folx,DIRECT
-
-hub5btmain.sandai.net = 127.0.0.1
-hub5emu.sandai.net = 127.0.0.1
