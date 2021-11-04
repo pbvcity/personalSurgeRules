@@ -5,6 +5,7 @@ PROCESS-NAME,/Applications/Folx.app/Contents/MacOS/Folx,DIRECT
 PROCESS-NAME,/Applications/115Browser.app/Contents/MacOS/115Browser,DIRECT
 PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/MacOS/BaiduNetdisk_mac,DIRECT
 PROCESS-NAME,/Users/vikarzhang/.SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-auto-updater,DIRECT
+PROCESS-NAME,/Applications/aDrive.app/Contents/MacOS/aDrive,DIRECT
 
 DOMAIN,www.zconnect.cn,DIRECT
 DOMAIN,osxapps.itunes.apple.com,DIRECT
