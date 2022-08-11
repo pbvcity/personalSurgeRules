@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,weixin.qq.com,Proxy
 DOMAIN-SUFFIX,wx.qq.com,Proxy
 DOMAIN-SUFFIX,qpic.cn,Proxy
 DOMAIN-SUFFIX,weixinbridge.com,Proxy
+DOMAIN-SUFFIX,ifixit.com,Proxy
 DOMAIN-SUFFIX,video.qq.com,DIRECT
 
 DOMAIN-SUFFIX,lanhu-logger.cn-beijing.log.aliyuncs.com,REJECT
