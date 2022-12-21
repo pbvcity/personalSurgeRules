@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,qpic.cn,Proxy
 DOMAIN-SUFFIX,weixinbridge.com,Proxy
 DOMAIN-SUFFIX,m-team.cc,Proxy
 DOMAIN-SUFFIX,ifixit.com,Proxy
+DOMAIN-SUFFIX,openai.com,Proxy
 DOMAIN-SUFFIX,video.qq.com,DIRECT
 
 DOMAIN-SUFFIX,lanhu-logger.cn-beijing.log.aliyuncs.com,REJECT
