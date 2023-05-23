@@ -12,15 +12,14 @@ PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat,Proxy
 DOMAIN,www.zconnect.cn,DIRECT
 DOMAIN,osxapps.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,zenithspace.net,DIRECT
-DOMAIN-SUFFIX,qq.com,Proxy
-DOMAIN-SUFFIX,weixin.com,Proxy
-DOMAIN-SUFFIX,weixin.qq.com,Proxy
-DOMAIN-SUFFIX,wx.qq.com,Proxy
-DOMAIN-SUFFIX,qpic.cn,Proxy
-DOMAIN-SUFFIX,weixinbridge.com,Proxy
+DOMAIN-SUFFIX,qq.com,Others
+DOMAIN-SUFFIX,weixin.com,Others
+DOMAIN-SUFFIX,weixin.qq.com,Others
+DOMAIN-SUFFIX,wx.qq.com,Others
+DOMAIN-SUFFIX,qpic.cn,Others
+DOMAIN-SUFFIX,weixinbridge.com,Others
 DOMAIN-SUFFIX,m-team.cc,Proxy
 DOMAIN-SUFFIX,ifixit.com,Proxy
-DOMAIN-SUFFIX,openai.com,Proxy
 DOMAIN-SUFFIX,video.qq.com,DIRECT
 
 DOMAIN-SUFFIX,lanhu-logger.cn-beijing.log.aliyuncs.com,REJECT
