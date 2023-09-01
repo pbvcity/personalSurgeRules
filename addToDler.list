@@ -21,5 +21,6 @@ DOMAIN-SUFFIX,weixinbridge.com,Others
 DOMAIN-SUFFIX,m-team.cc,Proxy
 DOMAIN-SUFFIX,ifixit.com,Proxy
 DOMAIN-SUFFIX,video.qq.com,DIRECT
+DOMAIN-SUFFIX,marriott.com,DIRECT
 
 DOMAIN-SUFFIX,lanhu-logger.cn-beijing.log.aliyuncs.com,REJECT
