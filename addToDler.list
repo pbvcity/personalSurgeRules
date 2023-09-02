@@ -21,8 +21,4 @@ DOMAIN-SUFFIX,marriott.com,DIRECT
 
 DOMAIN-SUFFIX,lanhu-logger.cn-beijing.log.aliyuncs.com,REJECT
 
-/*DOMAIN-SUFFIX,qq.com,Others
-DOMAIN-SUFFIX,weixin.com,Others
-DOMAIN-SUFFIX,weixin.qq.com,Others
-DOMAIN-SUFFIX,wx.qq.com,Others
-DOMAIN-SUFFIX,weixinbridge.com,Others*/
+
