@@ -16,11 +16,12 @@ DOMAIN-SUFFIX,zenithspace.net,DIRECT
 DOMAIN-SUFFIX,qpic.cn,DIRECT
 DOMAIN-SUFFIX,video.qq.com,DIRECT
 
+DOMAIN-SUFFIX,adobe.io,DIRECT
+DOMAIN-SUFFIX,adobecc.com,DIRECT
+
 DOMAIN-SUFFIX,m-team.cc,Proxy
 DOMAIN-SUFFIX,ifixit.com,Proxy
 DOMAIN-SUFFIX,marriott.com,DIRECT
-DOMAIN-SUFFIX,adobe.io,Proxy
-DOMAIN-SUFFIX,adobecc.com,Proxy
 
 DOMAIN-SUFFIX,lanhu-logger.cn-beijing.log.aliyuncs.com,REJECT
 
