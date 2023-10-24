@@ -13,11 +13,14 @@ DOMAIN,www.zconnect.cn,DIRECT
 DOMAIN,osxapps.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,zenithspace.net,DIRECT
 
-DOMAIN-SUFFIX,qpic.cn,Others
+DOMAIN-SUFFIX,qpic.cn,DIRECT
+DOMAIN-SUFFIX,video.qq.com,DIRECT
+
 DOMAIN-SUFFIX,m-team.cc,Proxy
 DOMAIN-SUFFIX,ifixit.com,Proxy
-DOMAIN-SUFFIX,video.qq.com,DIRECT
 DOMAIN-SUFFIX,marriott.com,DIRECT
+DOMAIN-SUFFIX,adobe.io,Proxy
+DOMAIN-SUFFIX,adobecc.com,Proxy
 
 DOMAIN-SUFFIX,lanhu-logger.cn-beijing.log.aliyuncs.com,REJECT
 
