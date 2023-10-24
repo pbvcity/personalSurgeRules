@@ -10,8 +10,8 @@ PROCESS-NAME,/Applications/aDrive.app/Contents/MacOS/aDrive,DIRECT
 PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat,Proxy
 
 DOMAIN,www.zconnect.cn,DIRECT
-DOMAIN,osxapps.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,zenithspace.net,DIRECT
+DOMAIN,osxapps.itunes.apple.com,DIRECT
 
 DOMAIN-SUFFIX,qpic.cn,DIRECT
 DOMAIN-SUFFIX,video.qq.com,DIRECT
