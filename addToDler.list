@@ -15,6 +15,7 @@ DOMAIN,osxapps.itunes.apple.com,DIRECT
 
 DOMAIN-SUFFIX,qpic.cn,DIRECT
 DOMAIN-SUFFIX,video.qq.com,Proxy
+DOMAIN-SUFFIX,tencent.com,Proxy
 
 DOMAIN-SUFFIX,adobe.io,Proxy
 DOMAIN-SUFFIX,adobecc.com,DIRECT
