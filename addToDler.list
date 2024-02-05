@@ -12,6 +12,7 @@ PROCESS-NAME,/Applications/QQ.app/Contents/MacOS/QQ,Proxy
 
 DOMAIN,www.zconnect.cn,DIRECT
 DOMAIN-SUFFIX,zenithspace.net,DIRECT
+DOMAIN-SUFFIX,znas.cn,DIRECT
 DOMAIN,osxapps.itunes.apple.com,DIRECT
 
 DOMAIN-SUFFIX,qpic.cn,DIRECT
