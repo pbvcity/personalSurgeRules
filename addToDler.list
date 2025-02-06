@@ -15,12 +15,6 @@ DOMAIN-SUFFIX,zenithspace.net,DIRECT
 DOMAIN-SUFFIX,znas.cn,DIRECT
 DOMAIN,osxapps.itunes.apple.com,DIRECT
 
-DOMAIN-SUFFIX,weixin.qq.com,Proxy
-DOMAIN-SUFFIX,qq.com.cn,Proxy
-DOMAIN-SUFFIX,tencent.com,Proxy
-DOMAIN-SUFFIX,qpic.cn,DIRECT
-DOMAIN-SUFFIX,video.qq.com,DIRECT
-DOMAIN-SUFFIX,v.qq.com,DIRECT
 
 DOMAIN-SUFFIX,adobe.io,Proxy
 DOMAIN-SUFFIX,adobecc.com,DIRECT
