@@ -7,8 +7,6 @@ PROCESS-NAME,/Applications/115电脑版.app/Contents/MacOS/115,DIRECT
 PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/MacOS/BaiduNetdisk_mac,DIRECT
 PROCESS-NAME,/Users/vikarzhang/.SynologyDrive/SynologyDrive.app/Contents/MacOS/cloud-drive-auto-updater,DIRECT
 PROCESS-NAME,/Applications/aDrive.app/Contents/MacOS/aDrive,DIRECT
-PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat,Proxy
-PROCESS-NAME,/Applications/QQ.app/Contents/MacOS/QQ,Proxy
 
 DOMAIN,www.zconnect.cn,DIRECT
 DOMAIN-SUFFIX,zenithspace.net,DIRECT
