@@ -15,7 +15,7 @@ DOMAIN,osxapps.itunes.apple.com,DIRECT
 
 
 DOMAIN-SUFFIX,adobe.io,Proxy
-DOMAIN-SUFFIX,adobecc.com,DIRECT
+DOMAIN-SUFFIX,adobecc.com,Proxy
 
 DOMAIN-SUFFIX,m-team.cc,Proxy
 DOMAIN-SUFFIX,ifixit.com,Proxy
